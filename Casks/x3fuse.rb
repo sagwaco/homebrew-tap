@@ -1,6 +1,6 @@
 cask "x3fuse" do
-  version "0.1.4"
-  sha256 "50f8a1bbd12e3be46e3243a60bb8833a3b3688bfdd33dd76fefc1299fc2ca0f6"
+  version "0.1.5"
+  sha256 "30cb3391ecf5552d0f473fd429ee2a0827c1ccd288df31756f4d8deb3e910204"
 
   url "https://github.com/sagwaco/x3fuse/releases/download/v#{version}/X3Fuse-App.zip"
   name "X3Fuse"
